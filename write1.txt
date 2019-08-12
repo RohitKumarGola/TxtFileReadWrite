@@ -1,0 +1,3 @@
+i/home/qainfotech/eclipse-workspace/TxtFileReadWrite/write1.txt
+ i/home/qainfotech/eclipse-workspace/TxtFileReadWrite/write1.txt
+ i/home/qainfotech/eclipse-workspace/TxtFileReadWrite/write1.txt
